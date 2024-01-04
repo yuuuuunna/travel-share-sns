@@ -1,0 +1,40 @@
+{
+  "_id": {
+    "$oid": "65814952c84ca272c761ec09"
+  },
+  "userId": "658147ffc84ca272c761ec03",
+  "title": "통영 놀러옴",
+  "destination": "통영",
+  "startDate": "2023-12-15",
+  "endDate": "2023-12-16",
+  "tag": ["힐링", "연인과"],
+  "schedules": [
+    [
+      {
+        "placName": "중앙시장",
+        "placeImageSrc": "url1",
+        "star": "5",
+        "category": "시장"
+      },
+      {
+        "placName": "서호시장",
+        "placeImageSrc": "url2",
+        "star": "5",
+        "category": "시장"
+      }
+    ],
+    [
+      {
+        "placName": "시외버스터미널",
+        "placeImageSrc": "url3",
+        "star": "4",
+        "category": "터미널"
+      }
+    ]
+  ],
+  "distances": [[50]],
+  "cost": "100000",
+  "peopleCount": "2",
+  "isPublic": "true",
+  "reviewText": "여기서 살고싶다!!!"
+}
